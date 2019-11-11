@@ -1,0 +1,5 @@
+server:
+  port: 41301
+spring:
+  application:
+    name: bl-service-logger
